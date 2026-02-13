@@ -12,7 +12,7 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
-const siteUrl = "https://creoguard.dev";
+const siteUrl = "https://creoguard.vercel.app";
 const title = "CreoGuard — AI-Powered Code Review Before Every Commit";
 const description =
   "Catch bugs, security issues, and best practice violations before they reach your codebase. AI-powered pre-commit code review CLI supporting OpenAI, Anthropic, and Ollama.";

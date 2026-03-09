@@ -1,8 +1,8 @@
 # CreoGuard Landing Page
 
-Landing page for [CreoGuard CLI](https://github.com/syket-git/creoguard-cli) — an AI-powered pre-commit code review tool that catches bugs, security issues, and best practice violations before they reach your codebase.
+Landing page for [CreoGuard CLI](https://github.com/CreoWis/creoguard-landing) — an AI-powered pre-commit code review tool that catches bugs, security issues, and best practice violations before they reach your codebase.
 
-**Live:** [creoguard-cli on npm](https://www.npmjs.com/package/creoguard-cli)
+**Live:** [@creowis/creoguard-cli on npm](https://www.npmjs.com/package/@creowis/creoguard-cli)
 
 ## Tech Stack
 

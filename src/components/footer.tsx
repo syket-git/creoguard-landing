@@ -33,7 +33,7 @@ export function Footer() {
               Providers
             </a>
             <a
-              href="https://github.com/syket-git/creoguard-cli"
+              href="https://github.com/CreoWis/creoguard-landing"
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted-foreground transition-colors hover:text-foreground"

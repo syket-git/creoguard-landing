@@ -25,7 +25,7 @@ export function CTA() {
               asChild
               className="w-full gap-2 bg-emerald-500 px-8 text-white hover:bg-emerald-400 sm:w-auto"
             >
-              <a href="https://www.npmjs.com/package/creoguard-cli" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.npmjs.com/package/@creowis/creoguard-cli" target="_blank" rel="noopener noreferrer">
                 Get Started Now
                 <ArrowRight className="size-4" />
               </a>
@@ -36,7 +36,7 @@ export function CTA() {
           <div className="mt-6 inline-flex items-center gap-2 rounded-lg border border-border/50 bg-card/50 px-3 py-2 backdrop-blur-sm sm:px-4">
             <span className="text-xs text-muted-foreground sm:text-sm">$</span>
             <code className="font-mono text-xs sm:text-sm">
-              npm install -g creoguard-cli
+              npm install -g @creowis/creoguard-cli
             </code>
           </div>
         </div>

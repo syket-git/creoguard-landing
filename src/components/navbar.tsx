@@ -39,7 +39,7 @@ export function Navbar() {
             Providers
           </a>
           <a
-            href="https://github.com/syket-git/creoguard-cli"
+            href="https://github.com/CreoWis/creoguard-landing"
             target="_blank"
             rel="noopener noreferrer"
             className="text-muted-foreground transition-colors hover:text-foreground"
@@ -47,7 +47,7 @@ export function Navbar() {
             <Github className="size-5" />
           </a>
           <Button size="sm" asChild className="bg-emerald-500 text-white hover:bg-emerald-400">
-            <a href="https://www.npmjs.com/package/creoguard-cli" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.npmjs.com/package/@creowis/creoguard-cli" target="_blank" rel="noopener noreferrer">
               Get Started
             </a>
           </Button>
@@ -88,7 +88,7 @@ export function Navbar() {
               Providers
             </a>
             <Button size="sm" asChild className="w-full bg-emerald-500 text-white hover:bg-emerald-400">
-              <a href="https://www.npmjs.com/package/creoguard-cli" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.npmjs.com/package/@creowis/creoguard-cli" target="_blank" rel="noopener noreferrer">
                 Get Started
               </a>
             </Button>

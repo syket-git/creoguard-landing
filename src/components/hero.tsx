@@ -10,7 +10,7 @@ export function Hero() {
   const [copied, setCopied] = useState(false);
 
   const handleCopy = () => {
-    navigator.clipboard.writeText("npm install -g creoguard-cli");
+    navigator.clipboard.writeText("npm install -g @creowis/creoguard-cli");
     setCopied(true);
     setTimeout(() => setCopied(false), 2000);
   };
@@ -68,13 +68,13 @@ export function Hero() {
             asChild
             className="w-full gap-2 bg-emerald-500 px-8 text-white hover:bg-emerald-400 sm:w-auto"
           >
-            <a href="https://www.npmjs.com/package/creoguard-cli" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.npmjs.com/package/@creowis/creoguard-cli" target="_blank" rel="noopener noreferrer">
               Get Started
               <ArrowRight className="size-4" />
             </a>
           </Button>
           <Button size="lg" variant="outline" asChild className="w-full gap-2 px-8 sm:w-auto">
-            <a href="https://github.com/syket-git/creoguard-cli" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/CreoWis/creoguard-landing" target="_blank" rel="noopener noreferrer">
               <Github className="size-4" />
               View on GitHub
             </a>
@@ -88,7 +88,7 @@ export function Hero() {
         >
           <span className="text-xs text-muted-foreground sm:text-sm">$</span>
           <code className="font-mono text-xs text-foreground sm:text-sm">
-            npm install -g creoguard-cli
+            npm install -g @creowis/creoguard-cli
           </code>
           <button
             onClick={handleCopy}
